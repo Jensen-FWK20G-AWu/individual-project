@@ -8,7 +8,7 @@
 
 ---
 ### 1. Uppdragsbeskrivning
-Du ska bygga en PWA med Vue som kombinerar de tekniker vi har gått igenom i kursen.
+Du ska bygga en PWA som kombinerar de tekniker vi har gått igenom i kursen.
 
 Appen ska publiceras online, till exempel med https://surge.sh/ som vi använde i kursen.
 
